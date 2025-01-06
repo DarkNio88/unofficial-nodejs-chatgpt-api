@@ -17,7 +17,7 @@ A simple Node.js application using Express and Puppeteer to automate sending mes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chatgpt-message-sender.git
+   git clone https://github.com/DarkNio88/unofficial-nodejs-chatgpt-api.git
    ```
 2. Navigate to the project directory:
    ```bash 
